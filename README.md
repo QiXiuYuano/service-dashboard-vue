@@ -113,7 +113,7 @@ yarn build
   name: "服务名称",
   description: "服务描述",
   url: "https://example.com",
-  icon: "�アイコン", // Emoji 或文字
+  icon: "", // Emoji 或文字
   logo: "https://example.com/logo.png",
   category: "服务分类",
   status: "checking",
