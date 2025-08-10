@@ -35,19 +35,19 @@ export default defineConfig({
         start_url: '/',
         icons: [
           {
-            src: 'https://img.630226.xyz/file/logo/android-chrome-192x192.png',
+            src: 'https://img.630226.xyz/file/logo/web-app-manifest-192x192.png',
             sizes: '192x192',
             type: 'image/png',
             purpose: 'any maskable'
           },
           {
-            src: 'https://img.630226.xyz/file/logo/android-chrome-512x512.png',
+            src: 'https://img.630226.xyz/file/logo/web-app-manifest-512x512.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any maskable'
           },
           {
-            src: 'https://img.630226.xyz/file/logo/apple-icon-180.png',
+            src: 'https://img.630226.xyz/file/logo/apple-touch-icon.png',
             sizes: '180x180',
             type: 'image/png',
             purpose: 'any'
